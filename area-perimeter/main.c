@@ -1,5 +1,9 @@
-#include <stdio.h>
+/*
+    Autthor: Nana Adjei Manu
+    Purpose: Calculate Area and Perimeter of Rectangle
+*/
 
+#include <stdio.h>
 
 int main(){
 
