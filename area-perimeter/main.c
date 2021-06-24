@@ -18,6 +18,6 @@ int main(){
     area = width * height;
     perimeter = (width + height) * 2;
 
-    printf("Area is %lf and the perimeter is %lf", area, perimeter);
+    printf("Area is %.2lf and the perimeter is %.2lf", area, perimeter);
     return 0;
 }
