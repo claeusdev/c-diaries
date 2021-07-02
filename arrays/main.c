@@ -9,10 +9,10 @@ int main(){
   int sum = 0;
   float average;
 
-  printf("Please enter your grades to compute your average");
+  printf("Please enter your grades to compute your average \n");
 
   for(int i = 0; i < count ; ++ i){
-   printf("%2u", i+1);
+   printf("%2u> ", i+1);
    scanf("%d", &grades[i]);
    sum = sum + grades[i];
   }
